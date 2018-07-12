@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">AppNotas</string>
+    <string name="subtitle_app">Administra tu rendimiento escolar \nen un solo lugar</string>
+
+    <string name="hint_id">Identificación</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">LOGIN</string>
+    <string name="title_activity_teacher">TeacherActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="textusername_menu">Edwin Yovany Orbes Villacorte</string>
+    <string name="textemail_menu">yovany.dev@gmail.com</string>
+    <string name="menu_item_account">Cuenta</string>
+    <string name="menu_item_settings">Ajustes</string>
+    <string name="menu_item_about">Acerca de</string>
+    <string name="menu_item_logout">Cerrar Sesión</string>
+
+    <string name="title_periods_list">Periodos Académicos</string>
+    <string name="textperiod_card">Primer Periodo</string>
+    <string name="textdate_card">20/11/2018</string>
+
+    <string name="title_subjects_list">Asignaturas</string>
+    <string name="text_name_subject">QUIMICA</string>
+
+    <string name="title_grade_list">Grados</string>
+    <string name="text_number_grade">8</string>
+    <string name="text_name_grade">Grado octavo</string>
 </resources>
